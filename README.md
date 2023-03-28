@@ -18,14 +18,14 @@ However, after adding the surrounding environment, the emotion we thought just n
 
 The main idea of ​​this article is to combine the background image and the character information detected by the target detection model to identify emotions. Among them, the author divides emotion into two dimensions: discrete and continuous.
 
-| Continuous Emotion | Interpretation |
-| ------------- | ----------------------------------- ------------------------- |
-| Valence (V) | measures how positive or pleasant an emotion is, ranging from negative to positive (degree of happiness) |
-| Arousal (A) | measures the agitation level of the person, ranging from non-active / in calm to agitated / ready to act (excitement level) |
-| Dominance (D) | measures the level of control a person feels of the situation, ranging from submissive / non-control to dominant / in-control (aura size) |
+| Continuous Emotion | Interpretation                                                |
+| ------------------ | ------------------------------------------------------------- |
+| Valence (V)        | measures how positive or pleasant an emotion is, ranging from negative to positive (degree of happiness) |
+| Arousal (A)        | measures the agitation level of the person, ranging from non-active / in calm to agitated / ready to act (excitement level) |
+| Dominance (D)      | measures the level of control a person feels of the situation, ranging from submissive / non-control to dominant / in-control (aura size) |
 
 | Discrete Emotion | Interpretation |
-| --------------- | --------------------------------- ------------------------------ |
+| --------------- | ---------------------------------------------------------------- |
 | Affection | fond feelings; love; tenderness |
 | Anger | intense distress or rage; furious; resentful |
 | Annoyance | bothered by something or someone; irritated; impatient; frustrated |
